@@ -4,7 +4,7 @@
   "period": "2026-08-05〜2026-08-22",
   "drawing_date": "2026-08-01",
   "members": ["伊藤", "鵜瀬", "河村", "熊田", "栗原", "西條", "西村"],
-  "last_updated": "2026-08-11",
+  "last_updated": "2026-08-12",
   "blocks": [
     {
       "block": 1,
@@ -26,17 +26,17 @@
       "block": 3,
       "games": [
         {"round": "2回戦", "date": "2026-08-11", "time": "16:00", "team1": {"name": "履正社", "pref": "大阪", "owner": "栗原"}, "team2": {"name": "享栄", "pref": "愛知", "owner": "熊田"}, "winner": "履正社", "score": "6-2"},
-        {"round": "2回戦", "date": "2026-08-11", "time": "18:30", "team1": {"name": "松商学園", "pref": "長野", "owner": "鵜瀬"}, "team2": {"name": "三重", "pref": "三重", "owner": "伊藤"}, "winner": null, "note": "結果未確認"},
-        {"round": "3回戦", "date": "2026-08-15", "time": "13:00", "team1": {"name": "履正社", "pref": "大阪", "owner": "栗原"}, "team2": null, "winner": null, "note": "team2は8/11 18:30 松商学園-三重の勝者(結果未確認)"}
+        {"round": "2回戦", "date": "2026-08-11", "time": "18:30", "team1": {"name": "松商学園", "pref": "長野", "owner": "鵜瀬"}, "team2": {"name": "三重", "pref": "三重", "owner": "伊藤"}, "winner": "三重", "score": "3-7"},
+        {"round": "3回戦", "date": "2026-08-15", "time": "13:00", "team1": {"name": "履正社", "pref": "大阪", "owner": "栗原"}, "team2": {"name": "三重", "pref": "三重", "owner": "伊藤"}, "winner": null}
       ]
     },
     {
       "block": 4,
       "games": [
         {"round": "1回戦", "date": "2026-08-05", "time": "17:30", "team1": {"name": "札幌日大", "pref": "南北海道", "owner": "河村"}, "team2": {"name": "仙台育英", "pref": "宮城", "owner": "西村"}, "winner": "仙台育英", "score": "1-3"},
-        {"round": "2回戦", "date": "2026-08-12", "time": "08:00", "team1": {"name": "拓大紅陵", "pref": "千葉", "owner": "西村"}, "team2": {"name": "佐賀商", "pref": "佐賀", "owner": "鵜瀬"}, "winner": null},
-        {"round": "2回戦", "date": "2026-08-12", "time": "13:30", "team1": {"name": "確認中", "pref": "花咲徳栄の可能性", "owner": null}, "team2": {"name": "仙台育英", "pref": "宮城", "owner": "西村"}, "winner": null, "candidates_team1": [{"name": "花咲徳栄", "pref": "埼玉", "owner": "栗原"}], "note": "team1は花咲徳栄(栗原)の可能性が高いが未確定。霞ケ浦(西村)・中京(伊藤)は8/9 18:30にblock8で対戦済み(霞ケ浦が6-3で勝利)で、霞ケ浦はblock8自身の2回戦(8/14 16:00, vs鳴門渦潮)に進むためこの枠には入れないと判明、候補から除外"},
-        {"round": "3回戦", "date": "2026-08-15", "time": "15:30", "team1": null, "team2": null, "winner": null, "note": "8/12 8:00・13:30の勝者同士"}
+        {"round": "2回戦", "date": "2026-08-12", "time": "08:00", "team1": {"name": "拓大紅陵", "pref": "千葉", "owner": "西村"}, "team2": {"name": "佐賀商", "pref": "佐賀", "owner": "鵜瀬"}, "winner": "拓大紅陵", "score": "1-0", "note": "34年ぶりの夏の甲子園勝利"},
+        {"round": "2回戦", "date": "2026-08-12", "time": "13:30", "team1": {"name": "花咲徳栄", "pref": "埼玉", "owner": "栗原"}, "team2": {"name": "仙台育英", "pref": "宮城", "owner": "西村"}, "winner": "仙台育英", "score": "0-1"},
+        {"round": "3回戦", "date": "2026-08-15", "time": "15:30", "team1": {"name": "拓大紅陵", "pref": "千葉", "owner": "西村"}, "team2": {"name": "仙台育英", "pref": "宮城", "owner": "西村"}, "winner": null, "note": "8/12 8:00・13:30の勝者同士。両校とも西村担当"}
       ]
     },
     {
@@ -46,8 +46,8 @@
         {"round": "1回戦", "date": "2026-08-06", "time": "18:30", "team1": {"name": "聖隷クリストファー", "pref": "静岡", "owner": "鵜瀬"}, "team2": {"name": "佐野日大", "pref": "栃木", "owner": "西村"}, "winner": "佐野日大", "score": "0-1"},
         {"round": "1回戦", "date": "2026-08-07", "time": "08:00", "team1": {"name": "東海大甲府", "pref": "山梨", "owner": "西條"}, "team2": {"name": "鶴岡東", "pref": "山形", "owner": "河村"}, "winner": "東海大甲府", "score": "5-2"},
         {"round": "1回戦", "date": "2026-08-07", "time": "13:30", "team1": {"name": "八幡商", "pref": "滋賀", "owner": "鵜瀬"}, "team2": {"name": "健大高崎", "pref": "群馬", "owner": "伊藤"}, "winner": "健大高崎", "score": "1-7"},
-        {"round": "2回戦", "date": "2026-08-12", "time": "16:00", "team1": {"name": "神村学園", "pref": "鹿児島", "owner": "栗原"}, "team2": {"name": "佐野日大", "pref": "栃木", "owner": "西村"}, "winner": null, "note": "8/6 16:00・18:30の勝者同士"},
-        {"round": "2回戦", "date": "2026-08-12", "time": "18:30", "team1": {"name": "東海大甲府", "pref": "山梨", "owner": "西條"}, "team2": {"name": "健大高崎", "pref": "群馬", "owner": "伊藤"}, "winner": null, "note": "8/7 8:00・13:30の勝者同士"},
+        {"round": "2回戦", "date": "2026-08-12", "time": "16:00", "team1": {"name": "神村学園", "pref": "鹿児島", "owner": "栗原"}, "team2": {"name": "佐野日大", "pref": "栃木", "owner": "西村"}, "winner": null, "note": "8/6 16:00・18:30の勝者同士。試合終了未確認(結果待ち)"},
+        {"round": "2回戦", "date": "2026-08-13", "time": "18:30", "team1": {"name": "東海大甲府", "pref": "山梨", "owner": "西條"}, "team2": {"name": "健大高崎", "pref": "群馬", "owner": "伊藤"}, "winner": null, "note": "台風接近のため8/12第4試合が8/13に順延"},
         {"round": "3回戦", "date": "2026-08-16", "time": "08:00", "team1": null, "team2": null, "winner": null, "note": "8/12 16:00・18:30の勝者同士"}
       ]
     },
