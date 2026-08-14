@@ -4,7 +4,7 @@
   "period": "2026-08-05〜2026-08-22",
   "drawing_date": "2026-08-01",
   "members": ["伊藤", "鵜瀬", "河村", "熊田", "栗原", "西條", "西村"],
-  "last_updated": "2026-08-13",
+  "last_updated": "2026-08-14",
   "blocks": [
     {
       "block": 1,
@@ -71,8 +71,8 @@
         {"round": "1回戦", "date": "2026-08-09", "time": "08:00", "team1": {"name": "新田", "pref": "愛媛", "owner": "熊田"}, "team2": {"name": "花巻東", "pref": "岩手", "owner": "河村"}, "winner": "花巻東", "score": "2-4"},
         {"round": "1回戦", "date": "2026-08-09", "time": "13:30", "team1": {"name": "岡山学芸館", "pref": "岡山", "owner": "西條"}, "team2": {"name": "鳥取城北", "pref": "鳥取", "owner": "伊藤"}, "winner": "岡山学芸館", "score": "7-3"},
         {"round": "2回戦", "date": "2026-08-13", "time": "18:30", "team1": {"name": "大分商", "pref": "大分", "owner": "河村"}, "team2": {"name": "英明", "pref": "香川", "owner": "西條"}, "winner": "英明", "score": "0-2", "note": "8/8 16:00・18:30の勝者同士"},
-        {"round": "2回戦", "date": "2026-08-14", "time": "13:30", "team1": {"name": "花巻東", "pref": "岩手", "owner": "河村"}, "team2": {"name": "岡山学芸館", "pref": "岡山", "owner": "西條"}, "winner": null},
-        {"round": "3回戦", "date": "2026-08-16", "time": "13:00", "team1": {"name": "英明", "pref": "香川", "owner": "西條"}, "team2": null, "winner": null, "note": "8/13 18:30・8/14 13:30の勝者同士"}
+        {"round": "2回戦", "date": "2026-08-14", "time": "13:30", "team1": {"name": "花巻東", "pref": "岩手", "owner": "河村"}, "team2": {"name": "岡山学芸館", "pref": "岡山", "owner": "西條"}, "winner": "花巻東", "score": "4-1"},
+        {"round": "3回戦", "date": "2026-08-16", "time": "13:00", "team1": {"name": "英明", "pref": "香川", "owner": "西條"}, "team2": {"name": "花巻東", "pref": "岩手", "owner": "河村"}, "winner": null, "note": "8/13 18:30・8/14 13:30の勝者同士"}
       ]
     },
     {
@@ -82,9 +82,9 @@
         {"round": "1回戦", "date": "2026-08-09", "time": "18:30", "team1": {"name": "中京", "pref": "岐阜", "owner": "伊藤"}, "team2": {"name": "霞ケ浦", "pref": "茨城", "owner": "西村"}, "winner": "霞ケ浦", "score": "3-6"},
         {"round": "1回戦", "date": "2026-08-10", "time": "08:00", "team1": {"name": "明徳義塾", "pref": "高知", "owner": "鵜瀬"}, "team2": {"name": "日南学園", "pref": "宮崎", "owner": "伊藤"}, "winner": "日南学園", "score": "1-2", "note": "サヨナラ勝ち"},
         {"round": "1回戦", "date": "2026-08-10", "time": "13:30", "team1": {"name": "横浜", "pref": "神奈川", "owner": "栗原"}, "team2": {"name": "沖縄尚学", "pref": "沖縄", "owner": "熊田"}, "winner": "横浜", "score": "7-2"},
-        {"round": "2回戦", "date": "2026-08-14", "time": "16:00", "team1": {"name": "鳴門渦潮", "pref": "徳島", "owner": "熊田"}, "team2": {"name": "霞ケ浦", "pref": "茨城", "owner": "西村"}, "winner": null},
-        {"round": "2回戦", "date": "2026-08-14", "time": "18:30", "team1": {"name": "日南学園", "pref": "宮崎", "owner": "伊藤"}, "team2": {"name": "横浜", "pref": "神奈川", "owner": "栗原"}, "winner": null},
-        {"round": "3回戦", "date": "2026-08-16", "time": "15:30", "team1": null, "team2": null, "winner": null, "note": "8/14 16:00・18:30の勝者同士"}
+        {"round": "2回戦", "date": "2026-08-14", "time": "16:00", "team1": {"name": "鳴門渦潮", "pref": "徳島", "owner": "熊田"}, "team2": {"name": "霞ケ浦", "pref": "茨城", "owner": "西村"}, "winner": "霞ケ浦", "score": "1-5"},
+        {"round": "2回戦", "date": "2026-08-14", "time": "18:30", "team1": {"name": "日南学園", "pref": "宮崎", "owner": "伊藤"}, "team2": {"name": "横浜", "pref": "神奈川", "owner": "栗原"}, "winner": null, "note": "結果未確認"},
+        {"round": "3回戦", "date": "2026-08-16", "time": "15:30", "team1": {"name": "霞ケ浦", "pref": "茨城", "owner": "西村"}, "team2": null, "winner": null, "note": "8/14 16:00・18:30の勝者同士"}
       ]
     }
   ]
